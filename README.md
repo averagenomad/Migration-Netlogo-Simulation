@@ -13,10 +13,10 @@ This repository archives the agent-based model and outputs for the research proj
 
 Rapid urbanization is one of the most significant demographic shifts of the last half-century, with the UN projecting that 68% of the global population will live in urban areas by 2050. This study uses an **agent-based model** to explore how employment, kinship ties, and wages drive migration patterns.  
 
-### **Key Findings**  
+### **Key Insights**  
 - **Employment opportunities** are the primary driver of internal migration in the model.  
 - Kinship and wage factors alone do not trigger migration without available employment opportunities.  
-- Results highlight the importance of employment availability for migration policy, particularly in developing regions.  
+- Results highlight the importance of employment availability for migration, particularly in developing regions.  
 
 ---
 
@@ -44,15 +44,9 @@ Rapid urbanization is one of the most significant demographic shifts of the last
 ---
 
 ## **Notes**  
-- The project is marked as **complete** and provided for academic reference.  
+- This was a **school project** for SPE 316 and is provided for academic reference only.  
+- The repository is marked as **complete** and will not be updated further.  
 - If you are not familiar with NetLogo, refer to the [NetLogo User Manual](https://ccl.northwestern.edu/netlogo/docs/) for guidance.  
-
----
-
-## **Citation**  
-If referencing this work, please cite:  
-
-> **J. Klein, Z. Klycheva, & A. Ortiz Salazar (2019). Of Kinship and Wealth: An Agent-Based Model of Rural and Urban Migration. Claremont Graduate University.**  
 
 ---
 
