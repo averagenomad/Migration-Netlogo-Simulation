@@ -52,7 +52,7 @@ Rapid urbanization is one of the most significant demographic shifts of the last
 ## **Citation**  
 If referencing this work, please cite:  
 
-> **J. Klein, Z. Klycheva, & A. Ortiz Salazar (Year). Of Kinship and Wealth: An Agent-Based Model of Rural and Urban Migration. Claremont Graduate University.**  
+> **J. Klein, Z. Klycheva, & A. Ortiz Salazar (2019). Of Kinship and Wealth: An Agent-Based Model of Rural and Urban Migration. Claremont Graduate University.**  
 
 ---
 
